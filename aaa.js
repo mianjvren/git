@@ -1,1 +1,1 @@
-asdasdsa
+var a = 1
